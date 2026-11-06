@@ -1,20 +1,22 @@
 <!doctype html>
 <html lang="en">
 
+
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- Primary SEO Metadata -->
-  <title>
-    Oluwaseun Ige Olorunfemi | Accountant & Finance Expert in Lagos
-  </title>
+  <title>Oluwaseun Olorunfemi | Accountant & Finance Professional in Lagos</title>
+
   <meta
     name="description"
-    content="Explore the professional portfolio of Oluwaseun Ige Olorunfemi, an accounting and finance leader in Lagos, Nigeria, specializing in financial management, taxation, reporting, budgeting, and business advisory." />
+    content="Discover Oluwaseun Olorunfemi, also known as Oluwaseun Ige Olorunfemi, an accounting and finance professional in Lagos, Nigeria. Explore his expertise in financial management, taxation, financial reporting, budgeting, and business advisory." />
+
   <meta
     name="keywords"
-    content="Oluwaseun Ige Olorunfemi, Olorunfemi Ige Oluwaseun, accountant in Lagos, accountant in Nigeria, finance professional Nigeria, financial management, tax consultant Lagos, financial analyst Nigeria, Head of Finance and Accounts, accounting and tax advisory" />
+    content="Oluwaseun Olorunfemi, Oluwaseun Ige Olorunfemi, Olorunfemi Ige Oluwaseun, Oluwaseun Olorunfemi Accountant, accountant in Lagos, accountant in Nigeria, finance professional Nigeria, financial management, tax consultant Lagos, financial analyst Nigeria, Head of Finance and Accounts, accounting and tax advisory" />
+
   <meta name="author" content="Oluwaseun Ige Olorunfemi" />
   <meta name="robots" content="index, follow, max-image-preview:large" />
   <meta name="language" content="English" />
@@ -24,42 +26,51 @@
   <meta name="geo.region" content="NG-LA" />
   <meta name="geo.placename" content="Lagos, Nigeria" />
 
-  <!-- Canonical URL: Replace with the final production URL -->
-  <link rel="canonical" href="https://YOUR-DOMAIN.com/" />
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://oluwaseunolorunfemi.com/" />
 
   <!-- Open Graph / Social Sharing -->
   <meta property="og:type" content="profile" />
   <meta property="og:locale" content="en_NG" />
+
   <meta
     property="og:title"
-    content="Oluwaseun Ige Olorunfemi | Accounting & Finance Professional" />
+    content="Oluwaseun Olorunfemi | Accountant & Finance Professional in Lagos" />
+
   <meta
     property="og:description"
-    content="Professional portfolio showcasing expertise in accounting, financial management, taxation, financial reporting, and business advisory in Nigeria." />
-  <meta property="og:url" content="https://YOUR-DOMAIN.com/" />
+    content="Explore the professional portfolio of Oluwaseun Ige Olorunfemi, showcasing his experience in accounting, financial management, taxation, financial reporting, and business advisory in Nigeria." />
+
+  <meta property="og:url" content="https://oluwaseunolorunfemi.com/" />
+
   <meta
     property="og:image"
-    content="https://YOUR-DOMAIN.com/assets/img/oluwaseun-ige-og.jpg" />
+    content="https://oluwaseunolorunfemi.com/assets/img/oluwaseun-ige-og.jpg" />
+
   <meta
     property="og:image:alt"
     content="Oluwaseun Ige Olorunfemi, accounting and finance professional" />
+
   <meta property="profile:first_name" content="Oluwaseun" />
   <meta property="profile:last_name" content="Olorunfemi" />
 
   <!-- Twitter / X Sharing -->
   <meta name="twitter:card" content="summary_large_image" />
+
   <meta
     name="twitter:title"
-    content="Oluwaseun Ige Olorunfemi | Accountant in Lagos" />
+    content="Oluwaseun Olorunfemi | Accountant in Lagos" />
+
   <meta
     name="twitter:description"
-    content="Accounting, financial management, taxation, and business advisory professional based in Lagos, Nigeria." />
+    content="Meet Oluwaseun Ige Olorunfemi, an accounting and finance professional specialising in financial management, taxation, reporting, and business advisory in Nigeria." />
+
   <meta
     name="twitter:image"
-    content="https://YOUR-DOMAIN.com/assets/img/oluwaseun-ige-og.jpg" />
+    content="https://oluwaseunolorunfemi.com/assets/img/oluwaseun-ige-og.jpg" />
 
   <!-- Favicon -->
-  <!-- <link rel="icon" href="assets/img/favicon.png" type="image/png" /> -->
+  <link rel="icon" href="" type="image/png" />
 
   <!-- Performance: Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -85,6 +96,7 @@
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet" />
 </head>
+
 
 <body class="index-page">
   <header
@@ -158,7 +170,7 @@
 
         <!-- Replace placeholder URLs with verified profile links -->
         <a
-          href="https://www.linkedin.com/"
+          href="https://www.linkedin.com/in/olorunfem-i-ige-oluwaseun-17b230b0"
           class="linkedin"
           aria-label="LinkedIn"
           target="_blank"
@@ -186,6 +198,7 @@
   </header>
 
   <main class="main">
+
     <!-- Hero Section -->
     <section id="hero" class="hero section">
       <div class="background-elements" aria-hidden="true">
@@ -206,11 +219,11 @@
                 </span>
 
                 <h1>
-                  Oluwaseun Ige
+                  Oluwaseun
                   <span class="accent-text">Olorunfemi</span>
                 </h1>
 
-                <h2>Accounting & Finance Professional</h2>
+                <h2>Accountant &amp; Finance Professional in Lagos, Nigeria</h2>
 
                 <p class="lead">
                   I am a
@@ -220,11 +233,15 @@
                 </p>
 
                 <p class="description">
-                  Delivering strategic financial management, accurate reporting,
-                  tax compliance, budgeting, and business insights that support
-                  sustainable organizational growth. Based in Lagos, Nigeria,
-                  with professional experience across finance, petroleum,
-                  technology, and professional services.
+                  I am Oluwaseun Ige Olorunfemi, an accounting and finance
+                  professional with expertise in financial management, taxation,
+                  financial reporting, budgeting, and business advisory. I help
+                  organisations strengthen financial performance, maintain
+                  regulatory compliance, and make informed business decisions
+                  through effective financial management and strategic insights.
+                  Based in Lagos, Nigeria, I bring professional experience across
+                  the petroleum, technology, industrial, healthcare, and
+                  professional services sectors.
                 </p>
 
                 <div class="hero-actions">
@@ -238,26 +255,27 @@
 
                 <!-- Professional Social Links -->
                 <div class="social-links">
-                  <!-- Replace with his verified profile URL -->
+
                   <a
-                    href="https://www.linkedin.com/"
-                    aria-label="LinkedIn profile"
+                    href="https://www.linkedin.com/in/olorunfem-i-ige-oluwaseun-17b230b0"
+                    aria-label="LinkedIn profile of Oluwaseun Olorunfemi"
                     target="_blank"
                     rel="noopener noreferrer">
                     <i class="bi bi-linkedin" aria-hidden="true"></i>
                   </a>
 
                   <a
-                    href="mailto:Olorunfemiigeoluwaseun@gmail.com"
-                    aria-label="Email Oluwaseun">
+                    href="mailto:sewenso@yahoo.com"
+                    aria-label="Email Oluwaseun Olorunfemi">
                     <i class="bi bi-envelope" aria-hidden="true"></i>
                   </a>
 
                   <a
                     href="tel:+2348068918568"
-                    aria-label="Call Oluwaseun">
+                    aria-label="Call Oluwaseun Olorunfemi">
                     <i class="bi bi-telephone" aria-hidden="true"></i>
                   </a>
+
                 </div>
 
               </div>
@@ -271,11 +289,12 @@
 
                   <img
                     src="assets/img/profile/WhatsApp Image 2026-10-08 at 3.41.15 PM (3).jpeg"
-                    alt="Oluwaseun Ige Olorunfemi, accounting and finance professional in Lagos, Nigeria"
+                    alt="Oluwaseun Olorunfemi (Oluwaseun Ige Olorunfemi), accountant and finance professional in Lagos, Nigeria"
                     class="profile-image"
                     width="600"
                     height="750"
-                    fetchpriority="high" />
+                    fetchpriority="high"
+                    decoding="async" />
                 </div>
               </div>
             </div>
@@ -285,6 +304,7 @@
       </div>
     </section>
     <!-- /Hero Section -->
+
 
     <!-- About Section -->
     <section id="about" class="about section">
@@ -298,11 +318,12 @@
                 <div class="profile-image">
                   <img
                     src="assets/img/profile/WhatsApp Image 2026-10-08 at 3.41.15 PM (2).jpeg"
-                    alt="Oluwaseun Ige Olorunfemi, accounting and finance professional in Lagos, Nigeria"
+                    alt="Professional portrait of Oluwaseun Ige Olorunfemi, Head of Finance and Accounts"
                     class="img-fluid"
                     width="500"
                     height="500"
-                    loading="lazy" />
+                    loading="lazy"
+                    decoding="async" />
                 </div>
 
                 <div class="profile-badge" aria-label="Professional profile">
@@ -318,10 +339,10 @@
 
                 <div class="contact-links">
                   <a
-                    href="mailto:Olorunfemiigeoluwaseun@gmail.com"
+                    href="mailto:sewenso@yahoo.com"
                     class="contact-item">
                     <i class="bi bi-envelope" aria-hidden="true"></i>
-                    <span>Olorunfemiigeoluwaseun@gmail.com</span>
+                    <span>sewenso@yahoo.com</span>
                   </a>
 
                   <a
@@ -348,37 +369,35 @@
 
               <div class="section-header">
                 <span class="badge-text">About Me</span>
+
                 <h2>
-                  Accounting, Financial Leadership &amp; Business Strategy
+                  About Oluwaseun Ige Olorunfemi: Accounting &amp; Finance Professional
                 </h2>
               </div>
 
               <div class="description">
                 <p>
                   I am Oluwaseun Ige Olorunfemi, an accounting and finance
-                  professional with extensive experience in financial management,
-                  accounting operations, taxation, financial reporting, budgeting,
-                  and business advisory. My career spans multiple sectors,
-                  including petroleum, technology, industrial operations,
-                  healthcare, and professional accounting services.
+                  professional with experience in financial management, taxation,
+                  financial reporting, budgeting, and business advisory. My career
+                  spans the petroleum, technology, healthcare, industrial, and
+                  professional services sectors.
                 </p>
 
                 <p>
                   I currently serve as Head of Finance and Accounts at Upstream
-                  Development Company Limited, where my responsibilities include
-                  financial planning, management reporting, regulatory compliance,
-                  cash-flow oversight, internal controls, and supporting strategic
-                  business decisions. My approach combines financial discipline,
-                  analytical thinking, and a commitment to operational efficiency.
+                  Development Company Limited, where I oversee financial planning,
+                  budgeting, management reporting, cash-flow management, regulatory
+                  compliance, and internal controls. My approach combines financial
+                  discipline, analytical thinking, and strategic business insight.
                 </p>
 
                 <p>
-                  My professional journey began in accounting operations and
-                  progressed through tax management, accountancy, and senior
-                  finance roles. I hold a B.Sc. in Accounting from the University
-                  of Lagos and an Associate of Accounting Technicians qualification
-                  from ICAN. I am also pursuing further professional and academic
-                  development.
+                  I hold a B.Sc. in Accounting from the University of Lagos and
+                  an Associate of Accounting Technicians (AAT) qualification from
+                  the Institute of Chartered Accountants of Nigeria (ICAN).
+                  I remain committed to continuous professional development and
+                  delivering effective financial management solutions.
                 </p>
               </div>
 
@@ -391,7 +410,7 @@
 
                 <div class="stat-item">
                   <div class="stat-number">6</div>
-                  <div class="stat-label">Listed Organizations</div>
+                  <div class="stat-label">Organizations</div>
                 </div>
 
                 <div class="stat-item">
@@ -402,6 +421,7 @@
 
               <!-- Professional Details -->
               <div class="details-grid">
+
                 <div class="detail-row">
                   <div class="detail-item">
                     <span class="detail-label">Specialization</span>
@@ -427,9 +447,9 @@
                   </div>
 
                   <div class="detail-item">
-                    <span class="detail-label">Professional Development</span>
+                    <span class="detail-label">Qualification</span>
                     <span class="detail-value">
-                      ICAN AAT; Further Qualifications in Progress
+                      ICAN Associate of Accounting Technicians (AAT)
                     </span>
                   </div>
                 </div>
@@ -443,10 +463,11 @@
                   <div class="detail-item">
                     <span class="detail-label">Core Strengths</span>
                     <span class="detail-value">
-                      Financial Reporting, Compliance &amp; Analysis
+                      Financial Reporting, Taxation &amp; Analysis
                     </span>
                   </div>
                 </div>
+
               </div>
 
               <!-- Call to Action -->
@@ -481,7 +502,7 @@
           <div class="col-lg-10">
             <div class="stats-wrapper">
 
-              <!-- Career Experience -->
+              <!-- Professional Experience -->
               <div class="stats-item" data-aos="zoom-in" data-aos-delay="150">
                 <div class="icon-wrapper">
                   <i class="bi bi-calendar-check" aria-hidden="true"></i>
@@ -491,9 +512,8 @@
                   data-purecounter-end="19"
                   data-purecounter-duration="1"
                   class="purecounter"></span>
-                <p>Years of Career History</p>
+                <p>Years of Professional Experience</p>
               </div>
-              <!-- End Stats Item -->
 
               <!-- Industry Experience -->
               <div class="stats-item" data-aos="zoom-in" data-aos-delay="200">
@@ -507,9 +527,8 @@
                   class="purecounter"></span>
                 <p>Industry Sectors</p>
               </div>
-              <!-- End Stats Item -->
 
-              <!-- Career Progression -->
+              <!-- Career Record -->
               <div class="stats-item" data-aos="zoom-in" data-aos-delay="250">
                 <div class="icon-wrapper">
                   <i class="bi bi-graph-up-arrow" aria-hidden="true"></i>
@@ -519,11 +538,10 @@
                   data-purecounter-end="6"
                   data-purecounter-duration="1"
                   class="purecounter"></span>
-                <p>Organizations on Career Record</p>
+                <p>Organizations Worked With</p>
               </div>
-              <!-- End Stats Item -->
 
-              <!-- Professional Focus -->
+              <!-- Professional Expertise -->
               <div class="stats-item" data-aos="zoom-in" data-aos-delay="300">
                 <div class="icon-wrapper">
                   <i class="bi bi-calculator" aria-hidden="true"></i>
@@ -533,9 +551,8 @@
                   data-purecounter-end="4"
                   data-purecounter-duration="1"
                   class="purecounter"></span>
-                <p>Core Areas of Expertise</p>
+                <p>Core Professional Expertise Areas</p>
               </div>
-              <!-- End Stats Item -->
 
             </div>
           </div>
@@ -544,16 +561,17 @@
     </section>
     <!-- /Stats Section -->
 
+
     <!-- Skills Section -->
     <section id="skills" class="skills section">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Professional Skills &amp; Expertise</h2>
+        <h2>Accounting, Financial Management &amp; Professional Expertise</h2>
         <p>
-          Accounting, financial management, taxation, financial analysis, and
-          enterprise accounting systems developed through experience across
-          multiple industries in Nigeria.
+          Explore the accounting, taxation, financial reporting, and business
+          management expertise of Oluwaseun Ige Olorunfemi, developed through
+          professional experience across multiple industries in Nigeria.
         </p>
       </div>
       <!-- End Section Title -->
@@ -567,29 +585,31 @@
               <h3>Financial Management &amp; Reporting</h3>
 
               <div class="skills-animation">
+
                 <div class="skill-item">
                   <h4>Financial Planning &amp; Budgeting</h4>
                   <p>
                     Budget preparation, financial forecasting, cash-flow
-                    management, cost control, and financial performance analysis.
+                    management, cost control, and performance monitoring.
                   </p>
                 </div>
 
                 <div class="skill-item">
-                  <h4>Financial Statements &amp; Management Accounts</h4>
+                  <h4>Financial Statements &amp; Reporting</h4>
                   <p>
-                    Preparation and review of financial statements, management
-                    accounts, reconciliations, and periodic financial reports.
+                    Financial statements, management accounts, account
+                    reconciliations, and financial performance reporting.
                   </p>
                 </div>
 
                 <div class="skill-item">
                   <h4>Internal Controls &amp; Audit</h4>
                   <p>
-                    Accounting controls, audit coordination, account reconciliation,
-                    risk analysis, and financial record review.
+                    Financial controls, audit coordination, risk assessment,
+                    and accounting process improvements.
                   </p>
                 </div>
+
               </div>
             </div>
           </div>
@@ -600,29 +620,31 @@
               <h3>Taxation &amp; Regulatory Compliance</h3>
 
               <div class="skills-animation">
+
                 <div class="skill-item">
-                  <h4>Tax Planning &amp; Returns</h4>
+                  <h4>Tax Computation &amp; Returns</h4>
                   <p>
-                    Tax computations, tax returns, VAT, withholding tax,
-                    and tax-related financial documentation.
+                    Tax computations, VAT, withholding tax, tax returns,
+                    and corporate and individual tax compliance.
                   </p>
                 </div>
 
                 <div class="skill-item">
                   <h4>PAYE &amp; Payroll Administration</h4>
                   <p>
-                    Payroll processing, PAYE calculations, statutory remittances,
-                    and coordination with HR and relevant departments.
+                    Payroll processing, PAYE calculations, statutory
+                    deductions, and tax remittances.
                   </p>
                 </div>
 
                 <div class="skill-item">
                   <h4>Tax Audit &amp; Reconciliation</h4>
                   <p>
-                    Experience supporting tax audits, bank reconciliations,
-                    and tax-related assignments involving FIRS and LIRS.
+                    Tax audit support, financial reconciliations, and
+                    tax-related assignments involving FIRS and LIRS.
                   </p>
                 </div>
+
               </div>
             </div>
           </div>
@@ -633,28 +655,31 @@
               <h3>Accounting Software &amp; ERP Systems</h3>
 
               <div class="skills-animation">
+
                 <div class="skill-item">
                   <h4>Accounting Applications</h4>
                   <p>
-                    Tally ERP 9, Sage 50, Sage 200, QuickBooks, and Xero.
+                    Tally ERP 9, Sage 50, Sage 200, QuickBooks, and Xero
+                    for accounting operations and financial reporting.
                   </p>
                 </div>
 
                 <div class="skill-item">
                   <h4>Enterprise Resource Planning</h4>
                   <p>
-                    Experience with EMB ERP, DEPOTMAN ERP, and Convergence ERP,
-                    as listed in the professional CV.
+                    EMB ERP, DEPOTMAN ERP, and Convergence ERP for
+                    accounting processes and business operations.
                   </p>
                 </div>
 
                 <div class="skill-item">
                   <h4>Microsoft Office &amp; Excel</h4>
                   <p>
-                    Microsoft Excel, Word, Access, and PowerPoint for financial
-                    analysis, reporting, documentation, and presentations.
+                    Microsoft Excel, Word, Access, and PowerPoint for
+                    financial analysis, reporting, and documentation.
                   </p>
                 </div>
+
               </div>
             </div>
           </div>
@@ -662,32 +687,34 @@
           <!-- Business Analysis -->
           <div class="col-lg-6">
             <div class="skills-category" data-aos="fade-up" data-aos-delay="300">
-              <h3>Business Analysis &amp; Leadership</h3>
+              <h3>Financial Analysis, Leadership &amp; Advisory</h3>
 
               <div class="skills-animation">
+
                 <div class="skill-item">
-                  <h4>Financial &amp; Data Analysis</h4>
+                  <h4>Financial &amp; Business Analysis</h4>
                   <p>
-                    Financial performance analysis, cost analysis, profitability
-                    reviews, forecasting, and risk assessment.
+                    Profitability reviews, cost analysis, financial
+                    performance evaluation, and risk assessment.
                   </p>
                 </div>
 
                 <div class="skill-item">
-                  <h4>Team Leadership &amp; Administration</h4>
+                  <h4>Finance Leadership &amp; Administration</h4>
                   <p>
-                    Finance team supervision, staff development, administrative
-                    coordination, and collaboration across departments.
+                    Team supervision, staff development, financial
+                    administration, and departmental coordination.
                   </p>
                 </div>
 
                 <div class="skill-item">
-                  <h4>Business Development &amp; Advisory</h4>
+                  <h4>Business Advisory &amp; Strategy</h4>
                   <p>
-                    Business planning, commercial analysis, stakeholder
-                    communication, vendor coordination, and operational improvement.
+                    Business planning, financial advisory, stakeholder
+                    engagement, and operational improvement.
                   </p>
                 </div>
+
               </div>
             </div>
           </div>
@@ -704,9 +731,9 @@
       <div class="container section-title" data-aos="fade-up">
         <h2>Professional Experience &amp; Resume</h2>
         <p>
-          Explore the career journey, financial leadership experience,
-          accounting responsibilities, academic qualifications, and professional
-          development of Oluwaseun Ige Olorunfemi.
+          Explore the professional career, accounting experience, financial
+          leadership responsibilities, academic qualifications, and professional
+          development of Oluwaseun Olorunfemi, also known as Oluwaseun Ige Olorunfemi.
         </p>
       </div>
       <!-- End Section Title -->
@@ -721,26 +748,29 @@
               <div class="profile-img mb-4">
                 <img
                   src="assets/img/profile/WhatsApp Image 2026-10-08 at 3.42.49 PM (1).jpeg"
-                  alt="Oluwaseun Ige Olorunfemi, finance and accounting professional"
+                  alt="Oluwaseun Olorunfemi, accounting and finance professional in Lagos, Nigeria"
                   class="img-fluid rounded"
                   width="500"
                   height="500"
-                  loading="lazy" />
+                  loading="lazy"
+                  decoding="async" />
               </div>
 
               <h3>Professional Summary</h3>
               <p>
-                Accounting and finance professional with a career history dating
-                back to 2007, including leadership positions in finance and
-                accounts, senior accounting, tax management, and administrative
-                operations.
+                Oluwaseun Ige Olorunfemi is an accounting and finance professional
+                with a career spanning multiple industries and professional
+                responsibilities since 2007. His experience includes financial
+                leadership, senior accounting, tax management, financial reporting,
+                and administrative operations.
               </p>
 
               <p>
-                Experienced in financial planning, budgeting, taxation, reporting,
-                account reconciliation, internal controls, and accounting software.
-                Currently serving as Head of Finance and Accounts at Upstream
-                Development Company Limited.
+                His expertise covers financial planning, budgeting, taxation,
+                management accounting, financial reporting, account reconciliation,
+                internal controls, and enterprise accounting systems. He currently
+                serves as Head of Finance and Accounts at Upstream Development
+                Company Limited.
               </p>
 
               <h3 class="mt-4">Contact Information</h3>
@@ -751,14 +781,14 @@
                 </li>
                 <li>
                   <i class="bi bi-envelope" aria-hidden="true"></i>
-                  <a href="mailto:Olorunfemiigeoluwaseun@gmail.com">
-                    Olorunfemiigeoluwaseun@gmail.com
+                  <a href="mailto:sewenso@yahoo.com">
+                    sewenso@yahoo.com
                   </a>
                 </li>
                 <li>
                   <i class="bi bi-phone" aria-hidden="true"></i>
-                  <a href="tel:+2348068918568">
-                    +234 806 891 8568
+                  <a href="tel:+2347081180048">
+                    070 8118 0048
                   </a>
                 </li>
                 <li>
@@ -771,41 +801,30 @@
                 <h3>Core Competencies</h3>
                 <ul class="list-unstyled">
                   <li class="mb-2">
-                    <i class="bi bi-check2-circle me-2"></i>
+                    <i class="bi bi-check2-circle me-2" aria-hidden="true"></i>
                     Financial Planning &amp; Reporting
                   </li>
                   <li class="mb-2">
-                    <i class="bi bi-check2-circle me-2"></i>
-                    Taxation &amp; Compliance
+                    <i class="bi bi-check2-circle me-2" aria-hidden="true"></i>
+                    Taxation &amp; Regulatory Compliance
                   </li>
                   <li class="mb-2">
-                    <i class="bi bi-check2-circle me-2"></i>
-                    Budgeting &amp; Cost Control
+                    <i class="bi bi-check2-circle me-2" aria-hidden="true"></i>
+                    Budgeting &amp; Cost Management
                   </li>
                   <li class="mb-2">
-                    <i class="bi bi-check2-circle me-2"></i>
-                    Accounting Systems &amp; ERP
+                    <i class="bi bi-check2-circle me-2" aria-hidden="true"></i>
+                    Accounting Software &amp; ERP Systems
                   </li>
                   <li class="mb-2">
-                    <i class="bi bi-check2-circle me-2"></i>
+                    <i class="bi bi-check2-circle me-2" aria-hidden="true"></i>
                     Financial Analysis &amp; Risk Assessment
                   </li>
                   <li class="mb-2">
-                    <i class="bi bi-check2-circle me-2"></i>
-                    Team Leadership &amp; Administration
+                    <i class="bi bi-check2-circle me-2" aria-hidden="true"></i>
+                    Finance Leadership &amp; Administration
                   </li>
                 </ul>
-              </div>
-
-              <div class="mt-4">
-                <a
-                  href="assets/docs/oluwaseun-ige-olorunfemi-resume.pdf"
-                  class="btn btn-primary"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  <i class="bi bi-download me-2" aria-hidden="true"></i>
-                  Download Full Resume
-                </a>
               </div>
 
             </div>
@@ -831,24 +850,27 @@
                 </p>
                 <ul>
                   <li>
-                    Lead financial planning, budgeting, forecasting, and analysis
-                    to support organizational objectives and management decisions.
+                    Lead financial planning, budgeting, forecasting, and financial
+                    analysis to support organisational objectives and management
+                    decision-making.
                   </li>
                   <li>
-                    Oversee accounting operations, financial reporting,
-                    management accounts, and the preparation of financial statements.
+                    Oversee accounting operations, financial reporting, management
+                    accounts, and the preparation and review of financial statements.
                   </li>
                   <li>
-                    Monitor cash flow, financial risks, internal controls,
-                    and compliance with relevant accounting and tax requirements.
+                    Monitor cash flow, financial risks, internal controls, and
+                    compliance with applicable accounting and tax requirements.
                   </li>
                   <li>
                     Coordinate audit activities and liaise with external auditors,
-                    regulatory authorities, financial institutions, and stakeholders.
+                    regulatory authorities, financial institutions, and business
+                    stakeholders.
                   </li>
                   <li>
-                    Supervise and support the finance and accounting team while
-                    improving financial processes, reporting systems, and controls.
+                    Supervise finance and accounting activities while supporting
+                    improvements in financial processes, reporting systems, and
+                    internal controls.
                   </li>
                 </ul>
               </div>
@@ -864,14 +886,14 @@
                 <ul>
                   <li>
                     Managed financial planning, annual budgeting, and financial
-                    performance analysis in line with business objectives.
+                    performance analysis in line with organisational objectives.
                   </li>
                   <li>
                     Oversaw financial statements, management reports, cash-flow
                     management, and cost-control activities.
                   </li>
                   <li>
-                    Coordinated audit and tax compliance processes and supported
+                    Coordinated audit and tax compliance processes and maintained
                     accurate financial records and reporting.
                   </li>
                   <li>
@@ -976,7 +998,7 @@
                   </li>
                   <li>
                     Assisted with financial reports, client accounting services,
-                    proposals, and communication with client organizations.
+                    proposals, and communication with client organisations.
                   </li>
                 </ul>
               </div>
@@ -991,12 +1013,12 @@
                 </p>
                 <ul>
                   <li>
-                    Prepared and maintained relevant accounting information
-                    and supporting financial documentation.
+                    Prepared and maintained accounting information and supporting
+                    financial documentation.
                   </li>
                   <li>
-                    Maintained organized records and filing systems for
-                    accurate documentation and future reference.
+                    Maintained organised accounting records and filing systems
+                    for accurate documentation and future reference.
                   </li>
                   <li>
                     Assisted with customer service and trained IT students
@@ -1011,12 +1033,12 @@
             <div class="resume-section" data-aos="fade-up" data-aos-delay="100">
               <h3>
                 <i class="bi bi-mortarboard me-2" aria-hidden="true"></i>
-                Education
+                Education &amp; Academic Qualifications
               </h3>
 
               <div class="resume-item">
                 <h4>Master of Science (M.Sc.) in Accounting</h4>
-                <h5>In Progress – Confirm Current Status</h5>
+                <h5>In Progress – Current Status to Be Confirmed</h5>
                 <p class="company">
                   <i class="bi bi-building me-1" aria-hidden="true"></i>
                   University of Lagos, Nigeria
@@ -1055,9 +1077,7 @@
               <div class="resume-item">
                 <h4>West African Senior School Certificate</h4>
                 <h5>2005</h5>
-                <p class="company">
-                  Falana High School
-                </p>
+                <p class="company">Falana High School</p>
               </div>
             </div>
 
@@ -1069,12 +1089,20 @@
               </h3>
 
               <div class="resume-item">
+                <h4>
+                  Certificate in Digital Transformation Programme for the Oil and Gas Sector
+                </h4>
+                <h5>2026</h5>
+                <p class="company">Niger Delta Development Commission</p>
+              </div>
+
+              <div class="resume-item">
                 <h4>Associate of Chartered Accountant (ACA)</h4>
                 <h5>Status to Be Confirmed</h5>
                 <p>
                   The supplied CV lists this qualification as in progress.
-                  Update this entry once the current ICAN membership and
-                  qualification status have been verified.
+                  The current ICAN examination and membership status should be
+                  confirmed before this is presented as an active qualification.
                 </p>
               </div>
 
@@ -1092,10 +1120,10 @@
 
               <div class="resume-item">
                 <h4>SQL for Data Analysis &amp; SQL for Data Science</h4>
-                <h5>Listed as In Progress – Confirm Current Status</h5>
+                <h5>Listed as In Progress – Current Status to Be Confirmed</h5>
                 <p>
-                  Include these as current learning activities only if the
-                  client confirms that they remain in progress.
+                  Include these as current learning activities only after
+                  confirming that they remain in progress.
                 </p>
               </div>
             </div>
@@ -1121,16 +1149,18 @@
     </section>
     <!-- /Resume Section -->
 
+
     <!-- Services Section -->
     <section id="services" class="services section">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Accounting &amp; Financial Services</h2>
+        <h2>Accounting, Financial Management &amp; Advisory Services</h2>
         <p>
-          Professional accounting, financial management, tax support, and business
-          advisory services designed to help organizations make informed financial
-          decisions and strengthen their financial operations.
+          Explore the professional accounting, financial management, taxation,
+          financial reporting, and business advisory expertise of Oluwaseun
+          Olorunfemi. Services focus on helping organisations strengthen financial
+          operations, improve accountability, and make informed business decisions.
         </p>
       </div>
       <!-- End Section Title -->
@@ -1152,10 +1182,10 @@
             <div class="col-lg-4 col-md-12">
               <div class="service-summary">
                 <p>
-                  With experience across accounting, finance leadership, taxation,
-                  and business operations, Oluwaseun Ige Olorunfemi brings a
-                  structured, detail-oriented approach to financial management
-                  and organizational decision-making.
+                  With professional experience across accounting, finance
+                  leadership, taxation, and business operations, Oluwaseun Ige
+                  Olorunfemi brings a structured, analytical, and detail-oriented
+                  approach to financial management and organisational decision-making.
                 </p>
                 <a href="#contact" class="service-btn">
                   Discuss a Service
@@ -1176,20 +1206,20 @@
               <div class="service-icon">
                 <i class="bi bi-graph-up-arrow" aria-hidden="true"></i>
               </div>
-              <a href="#services"
+              <a href="#contact"
                 class="card-action d-flex align-items-center justify-content-center rounded-circle"
-                aria-label="Enquire about financial management">
+                aria-label="Enquire about financial management services">
                 <i class="bi bi-arrow-up-right" aria-hidden="true"></i>
               </a>
               <h3>
-                <a href="#services">
+                <a href="#contact">
                   Financial <span>Management</span>
                 </a>
               </h3>
               <p>
                 Financial planning, budgeting, forecasting, cash-flow monitoring,
-                cost control, and performance analysis to support sound business
-                decisions.
+                cost control, and financial performance analysis to support sound
+                business decisions and effective resource management.
               </p>
             </div>
           </div>
@@ -1201,20 +1231,20 @@
               <div class="service-icon">
                 <i class="bi bi-calculator" aria-hidden="true"></i>
               </div>
-              <a href="#services"
+              <a href="#contact"
                 class="card-action d-flex align-items-center justify-content-center rounded-circle"
-                aria-label="Enquire about accounting and reporting">
+                aria-label="Enquire about accounting and financial reporting">
                 <i class="bi bi-arrow-up-right" aria-hidden="true"></i>
               </a>
               <h3>
-                <a href="#services">
+                <a href="#contact">
                   Accounting <span>&amp; Reporting</span>
                 </a>
               </h3>
               <p>
                 Accounting operations, general ledger management, bank
                 reconciliation, management accounts, and financial statement
-                preparation and review.
+                preparation and review for accurate financial reporting.
               </p>
             </div>
           </div>
@@ -1226,20 +1256,20 @@
               <div class="service-icon">
                 <i class="bi bi-receipt" aria-hidden="true"></i>
               </div>
-              <a href="#services"
+              <a href="#contact"
                 class="card-action d-flex align-items-center justify-content-center rounded-circle"
-                aria-label="Enquire about tax services">
+                aria-label="Enquire about tax consultancy services">
                 <i class="bi bi-arrow-up-right" aria-hidden="true"></i>
               </a>
               <h3>
-                <a href="#services">
+                <a href="#contact">
                   Tax <span>Consultancy</span>
                 </a>
               </h3>
               <p>
                 Tax computations, VAT and withholding tax support, PAYE,
-                tax documentation, reconciliation, and assistance with relevant
-                tax compliance requirements.
+                tax documentation, reconciliation, and assistance with
+                applicable tax compliance requirements.
               </p>
             </div>
           </div>
@@ -1251,20 +1281,20 @@
               <div class="service-icon">
                 <i class="bi bi-shield-check" aria-hidden="true"></i>
               </div>
-              <a href="#services"
+              <a href="#contact"
                 class="card-action d-flex align-items-center justify-content-center rounded-circle"
-                aria-label="Enquire about audit and internal controls">
+                aria-label="Enquire about audit and internal control support">
                 <i class="bi bi-arrow-up-right" aria-hidden="true"></i>
               </a>
               <h3>
-                <a href="#services">
+                <a href="#contact">
                   Audit <span>&amp; Internal Controls</span>
                 </a>
               </h3>
               <p>
                 Financial record reviews, account reconciliations, audit
-                coordination, control assessments, and support for improving
-                accounting procedures.
+                coordination, internal control assessments, and support for
+                improving accounting procedures and accountability.
               </p>
             </div>
           </div>
@@ -1276,20 +1306,20 @@
               <div class="service-icon">
                 <i class="bi bi-people" aria-hidden="true"></i>
               </div>
-              <a href="#services"
+              <a href="#contact"
                 class="card-action d-flex align-items-center justify-content-center rounded-circle"
                 aria-label="Enquire about payroll and cost analysis">
                 <i class="bi bi-arrow-up-right" aria-hidden="true"></i>
               </a>
               <h3>
-                <a href="#services">
+                <a href="#contact">
                   Payroll <span>&amp; Cost Analysis</span>
                 </a>
               </h3>
               <p>
                 Payroll analysis, employee-related statutory calculations,
-                expenditure monitoring, cost analysis, and support for accurate
-                financial records.
+                expenditure monitoring, cost analysis, and support for
+                accurate financial records and reporting.
               </p>
             </div>
           </div>
@@ -1301,20 +1331,20 @@
               <div class="service-icon">
                 <i class="bi bi-lightbulb" aria-hidden="true"></i>
               </div>
-              <a href="#services"
+              <a href="#contact"
                 class="card-action d-flex align-items-center justify-content-center rounded-circle"
-                aria-label="Enquire about business advisory">
+                aria-label="Enquire about business advisory services">
                 <i class="bi bi-arrow-up-right" aria-hidden="true"></i>
               </a>
               <h3>
-                <a href="#services">
+                <a href="#contact">
                   Business <span>Advisory</span>
                 </a>
               </h3>
               <p>
                 Financial analysis, budgeting insights, risk assessment,
                 operational cost reviews, and business planning support to help
-                management evaluate decisions.
+                management evaluate business decisions.
               </p>
             </div>
           </div>
@@ -1325,14 +1355,16 @@
     <!-- /Services Section -->
 
     <!-- Professional Value Section -->
-    <section id="testimonials" class="testimonials section light-background">
+    <section id="professional-value" class="testimonials section light-background">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Professional Value</h2>
         <p>
-          A finance professional focused on reliable reporting, financial
-          discipline, regulatory awareness, and informed business decisions.
+          Oluwaseun Ige Olorunfemi brings a disciplined approach to accounting
+          and financial management, combining accurate reporting, financial
+          analysis, regulatory awareness, and strategic insight to support
+          effective business decisions.
         </p>
       </div>
       <!-- End Section Title -->
@@ -1340,126 +1372,150 @@
       <div class="container">
         <div class="testimonial-masonry">
 
+          <!-- Financial Accuracy -->
           <div class="testimonial-item" data-aos="fade-up">
             <div class="testimonial-content">
               <div class="quote-pattern">
                 <i class="bi bi-calculator" aria-hidden="true"></i>
               </div>
+
               <h3>Financial Accuracy</h3>
               <p>
-                Emphasis on organized accounting records, account reconciliation,
-                accurate financial reporting, and dependable financial information
-                for management review.
+                Strong emphasis on maintaining organized accounting records,
+                performing account reconciliations, preparing accurate financial
+                statements, and delivering dependable financial reports that
+                support management oversight and accountability.
               </p>
+
               <div class="client-info">
                 <div class="client-details">
                   <h3>Accounting Excellence</h3>
-                  <span class="position">Reporting &amp; Reconciliation</span>
+                  <span class="position">Financial Reporting &amp; Reconciliation</span>
                 </div>
               </div>
             </div>
           </div>
 
+          <!-- Strategic Financial Insight -->
           <div class="testimonial-item highlight" data-aos="fade-up"
             data-aos-delay="100">
             <div class="testimonial-content">
               <div class="quote-pattern">
                 <i class="bi bi-graph-up-arrow" aria-hidden="true"></i>
               </div>
+
               <h3>Strategic Financial Insight</h3>
               <p>
-                Financial planning, budgeting, forecasting, and performance
-                analysis help provide management with a clearer view of business
-                performance and financial priorities.
+                Applying financial planning, budgeting, forecasting, and
+                performance analysis to help organizations understand their
+                financial position, evaluate business performance, and make
+                informed strategic decisions.
               </p>
+
               <div class="client-info">
                 <div class="client-details">
-                  <h3>Informed Decisions</h3>
-                  <span class="position">Planning &amp; Analysis</span>
+                  <h3>Informed Business Decisions</h3>
+                  <span class="position">Financial Planning &amp; Analysis</span>
                 </div>
               </div>
             </div>
           </div>
 
+          <!-- Compliance Awareness -->
           <div class="testimonial-item" data-aos="fade-up"
             data-aos-delay="200">
             <div class="testimonial-content">
               <div class="quote-pattern">
                 <i class="bi bi-shield-check" aria-hidden="true"></i>
               </div>
-              <h3>Compliance Awareness</h3>
+
+              <h3>Tax &amp; Regulatory Compliance</h3>
               <p>
-                Experience in tax-related assignments, audit support, financial
-                documentation, and internal control processes across different
-                organizational environments.
+                Experience in taxation, audit coordination, financial
+                documentation, and internal control processes, with an
+                understanding of regulatory requirements and financial
+                accountability across different business environments.
               </p>
+
               <div class="client-info">
                 <div class="client-details">
-                  <h3>Accountability</h3>
-                  <span class="position">Tax &amp; Controls</span>
+                  <h3>Compliance &amp; Accountability</h3>
+                  <span class="position">Taxation, Audit &amp; Internal Controls</span>
                 </div>
               </div>
             </div>
           </div>
 
+          <!-- Cost and Cash Flow -->
           <div class="testimonial-item" data-aos="fade-up"
             data-aos-delay="300">
             <div class="testimonial-content">
               <div class="quote-pattern">
                 <i class="bi bi-cash-stack" aria-hidden="true"></i>
               </div>
-              <h3>Cost &amp; Cash-Flow Awareness</h3>
+
+              <h3>Cost &amp; Cash-Flow Management</h3>
               <p>
-                Attention to cash flow, expenditure, cost control, and financial
-                analysis supports stronger visibility into resource use and
-                operating costs.
+                Focused on cash-flow monitoring, expenditure management,
+                cost analysis, and financial controls to improve visibility
+                into organizational spending, resource allocation, and
+                operational financial performance.
               </p>
+
               <div class="client-info">
                 <div class="client-details">
                   <h3>Financial Discipline</h3>
-                  <span class="position">Cost &amp; Treasury Support</span>
+                  <span class="position">Cost Control &amp; Treasury Support</span>
                 </div>
               </div>
             </div>
           </div>
 
+          <!-- Leadership and Collaboration -->
           <div class="testimonial-item highlight" data-aos="fade-up"
             data-aos-delay="400">
             <div class="testimonial-content">
               <div class="quote-pattern">
                 <i class="bi bi-people" aria-hidden="true"></i>
               </div>
-              <h3>Leadership &amp; Collaboration</h3>
+
+              <h3>Financial Leadership &amp; Collaboration</h3>
               <p>
-                Experience in finance leadership, team coordination, administrative
-                operations, and collaboration with internal and external
-                stakeholders.
+                Experience in finance leadership, team coordination,
+                administrative operations, and cross-functional collaboration,
+                supporting effective financial processes and organizational
+                objectives through structured management and communication.
               </p>
+
               <div class="client-info">
                 <div class="client-details">
-                  <h3>Team Leadership</h3>
-                  <span class="position">People &amp; Operations</span>
+                  <h3>Leadership &amp; Operations</h3>
+                  <span class="position">Team Coordination &amp; Management</span>
                 </div>
               </div>
             </div>
           </div>
 
+          <!-- Accounting Technology -->
           <div class="testimonial-item" data-aos="fade-up"
             data-aos-delay="500">
             <div class="testimonial-content">
               <div class="quote-pattern">
                 <i class="bi bi-pc-display" aria-hidden="true"></i>
               </div>
-              <h3>Accounting Technology</h3>
+
+              <h3>Accounting Technology &amp; Systems</h3>
               <p>
-                Familiarity with accounting packages, ERP systems, spreadsheets,
-                and SQL-related learning supports an adaptable approach to
-                financial data and reporting tools.
+                Practical familiarity with accounting software, enterprise
+                resource planning systems, spreadsheets, and financial data
+                tools, supporting efficient accounting operations, financial
+                analysis, and management reporting.
               </p>
+
               <div class="client-info">
                 <div class="client-details">
-                  <h3>Systems &amp; Analysis</h3>
-                  <span class="position">Accounting Software &amp; Data</span>
+                  <h3>Technology-Driven Accounting</h3>
+                  <span class="position">Accounting Software, ERP &amp; Data Analysis</span>
                 </div>
               </div>
             </div>
@@ -1470,16 +1526,151 @@
     </section>
     <!-- /Professional Value Section -->
 
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="testimonials section light-background">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Professional Testimonials</h2>
+        <p>
+          Professional perspectives on Oluwaseun Ige Olorunfemi's approach
+          to financial management, business collaboration, accounting
+          responsibilities, and organizational impact.
+        </p>
+      </div>
+      <!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="testimonial-masonry">
+
+          <!-- Testimonial 1: Kofi Amuzu -->
+          <div class="testimonial-item" data-aos="fade-up">
+            <div class="testimonial-content">
+              <div class="quote-pattern">
+                <i class="bi bi-quote" aria-hidden="true"></i>
+              </div>
+
+              <p>
+                Oluwaseun demonstrates a strong understanding of how financial
+                management contributes to effective business strategy and
+                organisational growth. His analytical approach, attention to
+                financial details, and ability to translate financial information
+                into practical business insights make him a valuable professional
+                to work with. He brings a thoughtful balance of financial
+                discipline and strategic thinking to his responsibilities.
+              </p>
+
+              <div class="client-info">
+                <div class="client-image">
+                  <img src="assets/img/person/kofi.jpeg"
+                    alt="Kofi Amuzu, professional reference for Oluwaseun Ige Olorunfemi"
+                    loading="lazy">
+                </div>
+
+                <div class="client-details">
+                  <h3>Kofi Amuzu</h3>
+                  <span class="position">Chief Innovation Officer</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End Testimonial 1 -->
+
+
+          <!-- Testimonial 2: Precious Exeoke -->
+          <div class="testimonial-item highlight" data-aos="fade-up"
+            data-aos-delay="100">
+            <div class="testimonial-content">
+              <div class="quote-pattern">
+                <i class="bi bi-quote" aria-hidden="true"></i>
+              </div>
+
+              <p>
+                Working with Oluwaseun reflects the importance of professionalism,
+                accountability, and effective collaboration across different
+                business functions. He approaches responsibilities with
+                consistency, pays attention to detail, and understands the value
+                of proper coordination and structured processes. His financial
+                knowledge and commitment to getting things right contribute
+                positively to organisational efficiency and teamwork.
+              </p>
+
+              <div class="client-info">
+                <div class="client-image">
+                  <img src="assets/img/person/precious-passport.jpeg"
+                    alt="Precious Exeoke, professional reference for Oluwaseun Ige Olorunfemi"
+                    loading="lazy">
+                </div>
+
+                <div class="client-details">
+                  <h3>Precious Exeoke</h3>
+                  <span class="position">
+                    Human Resources Specialist &amp; Protocol Executive
+                    <br>
+                    Corporate Travel &amp; Visa Services Manager
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End Testimonial 2 -->
+
+
+          <!-- Testimonial 3: Francis Nwankwo -->
+          <div class="testimonial-item" data-aos="fade-up"
+            data-aos-delay="200">
+            <div class="testimonial-content">
+              <div class="quote-pattern">
+                <i class="bi bi-quote" aria-hidden="true"></i>
+              </div>
+
+              <p>
+                Collaborating with Oluwaseun has provided valuable insight into
+                the role of sound financial management in building sustainable
+                business solutions. He understands the importance of accurate
+                financial information, structured reporting, and effective
+                planning in supporting business operations. His ability to
+                approach financial responsibilities with clarity, discipline,
+                and a practical mindset makes him a dependable professional
+                and collaborator.
+              </p>
+
+              <div class="client-info">
+                <div class="client-image">
+                  <img src="assets/img/person/francis_selfie.png"
+                    alt="Francis Nwankwo, Founder of TechByFrancis"
+                    loading="lazy">
+                </div>
+
+                <div class="client-details">
+                  <h3>Francis Nwankwo</h3>
+                  <span class="position">Founder, TechByFrancis</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End Testimonial 3 -->
+
+        </div>
+
+      </div>
+
+    </section>
+    <!-- /Testimonials Section -->
+
     <!-- Contact Section -->
     <section id="contact" class="contact section">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
+        <h2>Contact Oluwaseun Ige Olorunfemi</h2>
         <p>
-          Get in touch with Oluwaseun Ige Olorunfemi for enquiries about
-          accounting, financial management, tax support, financial reporting,
-          and business advisory services.
+          Connect with Oluwaseun Ige Olorunfemi, an accounting and finance
+          professional in Lagos, Nigeria, for professional enquiries,
+          financial management discussions, accounting opportunities,
+          and business collaborations.
         </p>
       </div>
       <!-- End Section Title -->
@@ -1490,12 +1681,13 @@
           <!-- Contact Information -->
           <div class="col-lg-5">
             <div class="info-box">
-              <h3>Contact Information</h3>
+
+              <h3>Get in Touch</h3>
               <p>
-                Based in Lagos, Nigeria, Oluwaseun is an accounting and finance
-                professional with experience in financial management, taxation,
-                reporting, and business operations. Reach out to discuss a
-                professional enquiry or potential opportunity.
+                Whether you have a professional enquiry, collaboration proposal,
+                or opportunity related to accounting and finance, Oluwaseun
+                welcomes meaningful professional connections. Reach out through
+                any of the contact channels below.
               </p>
 
               <!-- Location -->
@@ -1503,6 +1695,7 @@
                 <div class="icon-box">
                   <i class="bi bi-geo-alt" aria-hidden="true"></i>
                 </div>
+
                 <div class="content">
                   <h4>Location</h4>
                   <p>Lagos State, Nigeria</p>
@@ -1515,10 +1708,13 @@
                 <div class="icon-box">
                   <i class="bi bi-telephone" aria-hidden="true"></i>
                 </div>
+
                 <div class="content">
                   <h4>Phone Number</h4>
                   <p>
-                    <a href="tel:+2348068918568">+234 806 891 8568</a>
+                    <a href="tel:+2348068918568">
+                      +234 806 891 8568
+                    </a>
                   </p>
                 </div>
               </div>
@@ -1528,11 +1724,12 @@
                 <div class="icon-box">
                   <i class="bi bi-envelope" aria-hidden="true"></i>
                 </div>
+
                 <div class="content">
                   <h4>Email Address</h4>
                   <p>
-                    <a href="mailto:Olorunfemiigeoluwaseun@gmail.com">
-                      Olorunfemiigeoluwaseun@gmail.com
+                    <a href="mailto:sewenso@yahoo.com">
+                      sewenso@yahoo.com
                     </a>
                   </p>
                 </div>
@@ -1543,10 +1740,12 @@
                 <div class="icon-box">
                   <i class="bi bi-briefcase" aria-hidden="true"></i>
                 </div>
+
                 <div class="content">
-                  <h4>Professional Focus</h4>
+                  <h4>Areas of Professional Expertise</h4>
                   <p>Accounting &amp; Financial Management</p>
-                  <p>Tax Support &amp; Business Advisory</p>
+                  <p>Financial Reporting &amp; Analysis</p>
+                  <p>Taxation &amp; Business Advisory</p>
                 </div>
               </div>
 
@@ -1554,13 +1753,16 @@
           </div>
           <!-- End Contact Information -->
 
+
           <!-- Contact Form -->
           <div class="col-lg-7">
             <div class="contact-form">
-              <h3>Let's Connect</h3>
+
+              <h3>Let's Start a Conversation</h3>
               <p>
-                Have a professional enquiry, collaboration proposal, or career
-                opportunity? Send a message using the form below.
+                Have a professional enquiry, business collaboration proposal,
+                accounting opportunity, or career-related discussion?
+                Complete the form below and send a message.
               </p>
 
               <form
@@ -1577,6 +1779,8 @@
                       class="form-control"
                       placeholder="Your Full Name"
                       autocomplete="name"
+                      aria-label="Your full name"
+                      maxlength="100"
                       required />
                   </div>
 
@@ -1587,6 +1791,8 @@
                       name="email"
                       placeholder="Your Email Address"
                       autocomplete="email"
+                      aria-label="Your email address"
+                      maxlength="150"
                       required />
                   </div>
 
@@ -1596,6 +1802,8 @@
                       class="form-control"
                       name="subject"
                       placeholder="Subject"
+                      aria-label="Message subject"
+                      maxlength="150"
                       required />
                   </div>
 
@@ -1604,14 +1812,21 @@
                       class="form-control"
                       name="message"
                       rows="6"
-                      placeholder="How can I help you?"
+                      placeholder="Write your message here..."
+                      aria-label="Your message"
+                      maxlength="5000"
                       required></textarea>
                   </div>
 
                   <div class="col-12 text-center">
-                    <div class="loading">Sending your message...</div>
-                    <div class="error-message"></div>
-                    <div class="sent-message">
+
+                    <div class="loading" role="status" aria-live="polite">
+                      Sending your message...
+                    </div>
+
+                    <div class="error-message" role="alert"></div>
+
+                    <div class="sent-message" role="status" aria-live="polite">
                       Your message has been sent successfully. Thank you for
                       getting in touch!
                     </div>
@@ -1620,10 +1835,12 @@
                       Send Message
                       <i class="bi bi-arrow-right" aria-hidden="true"></i>
                     </button>
+
                   </div>
 
                 </div>
               </form>
+
             </div>
           </div>
           <!-- End Contact Form -->
@@ -1632,6 +1849,7 @@
       </div>
     </section>
     <!-- /Contact Section -->
+
   </main>
 
   <!-- Footer -->
@@ -1646,12 +1864,12 @@
         </p>
       </div>
 
-      <div class="credits">
+      <!-- <div class="credits">
         Designed &amp; Developed by
         <a href="https://techbyfrancis.com/" target="_blank" rel="noopener noreferrer">
           TechByFrancis
         </a>
-      </div>
+      </div> -->
 
     </div>
   </footer>
