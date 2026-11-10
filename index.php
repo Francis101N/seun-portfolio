@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
 
-
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -1093,7 +1092,7 @@
                   Certificate in Digital Transformation Programme for the Oil and Gas Sector
                 </h4>
                 <h5>2026</h5>
-                <p class="company">Niger Delta Development Commission</p>
+                <p class="company">Nigerian Content Development and Monitoring Board (NCDMB)</p>
               </div>
 
               <div class="resume-item">
